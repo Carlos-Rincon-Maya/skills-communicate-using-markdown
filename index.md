@@ -3,7 +3,9 @@
 ## Secondary titles are also important!
 
 
-
+```python
+print("Hello world!");
+```
 
 
 
