@@ -7,6 +7,9 @@
 print("Hello world!");
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 I have used markdown to create two different kinds of titles on this file.
